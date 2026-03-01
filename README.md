@@ -10,9 +10,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamika250&show_icons=true&theme=aura&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anamika250&show_icons=true&theme=aura&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika250&layout=compact&theme=aura&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamika250&layout=compact&theme=aura&hide_border=true" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
