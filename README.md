@@ -44,8 +44,7 @@
     href="https://github.com/anamika250" 
     target="_blank" 
     rel="noopener noreferrer"
-    style="display:inline-block; margin-top:10px;"
-  >
+    style="display:inline-block; margin-top:10px">
     🔗 Visit my GitHub Profile
   </a>
 </section>
