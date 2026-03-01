@@ -33,15 +33,22 @@
 
 ---
 
-## 📊 GitHub Stats
+<section id="github" style="text-align:center; margin: 2rem 0;">
+  <h2>📊 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamika250&show_icons=true&theme=aura&hide_border=true" />
-</p>
+  <p>
+    Actively building MERN stack projects and pushing code regularly on GitHub.
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamika250&layout=compact&theme=aura&hide_border=true" />
-</p>
+  <a 
+    href="https://github.com/anamika250" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    style="display:inline-block; margin-top:10px;"
+  >
+    🔗 Visit my GitHub Profile
+  </a>
+</section>
 
 ---
 
